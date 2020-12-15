@@ -23,3 +23,13 @@ current state, can be deployed easily on Heroku's free tier.
 
 If you are stronger on the front-end, complete the react-prompt.md in this
 folder.
+
+### TODO
+- [ ] Fix runtime errors
+  - [ ] Out of range search
+- [ ] Improve search input
+  - [ ] Case insensitive
+  - [ ] Typo fix
+- [ ] Improve search output
+  - [ ] Do not cut words
+  
